@@ -1,7 +1,6 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { li } from 'framer-motion/client';
 import Image from 'next/image';
 import Link from 'next/link';
 
